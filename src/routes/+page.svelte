@@ -69,7 +69,7 @@
 			</form>
 		</div>
 		<div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-			<img src="/images/house1.png" width="auto" height="100" alt="House" />
+			<img src="/images/house1.png" width="617" height="697" alt="House" />
 		</div>
 	</div>
 </section>
@@ -148,8 +148,8 @@
 		<img
 			src="/images/house2.png"
 			class="h-full lg:w-10/12"
-			width="auto"
-			height="200"
+			width="996"
+			height="662"
 			alt="A House"
 		/>
 		<div>
