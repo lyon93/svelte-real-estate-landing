@@ -1,26 +1,72 @@
 
+# Real Estate Template with SvelteKit and TailwindCSS
+
+## Description
+
+This project is a real estate template built using SvelteKit and styled with TailwindCSS. It offers a fast and responsive interface for listing and viewing property details.
+
+[Live Preview](#https://svelte-real-state-landing.vercel.app/)
+
+## Requirements
+
+- Node.js (v14.0.0 or newer)
+- npm, pnpm, or yarn
+
+## Installation
+
+First, clone the repository and navigate into the project directory.
+
+```bash
+git clone https://github.com/lyon93/svelte-real-state-landing.git
+cd real-estate-template
+```
+
+Install the dependencies using npm:
+
+```bash
+npm install
+```
+
+Alternatively, you can use `pnpm` or `yarn`:
+
+```bash
+pnpm install
+# or
+yarn
+```
+
 ## Developing
 
-Install dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Start the development server:
 
 ```bash
 npm run dev
+```
 
-# or start the server and open the app in a new browser tab
+To automatically open the app in a new browser tab:
+
+```bash
 npm run dev -- --open
 ```
 
 ## Building
 
-To create a production version of your app:
+To generate a production-ready build:
 
 ```bash
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+Preview the production build:
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+npm run preview
+```
+
+## Deployment
+
+To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs#adapters) suitable for your hosting environment.
 
 ## Demo
-![Another Image](./static/images/demo.jpeg)
+
+![Real Estate Template Demo](./static/images/demo.png)
