@@ -67,6 +67,6 @@ npm run preview
 
 To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) suitable for your hosting environment.
 
-## Demo
 
+## Demo
 ![Real Estate Template Demo](./static/images/demo.png)
