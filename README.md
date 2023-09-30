@@ -5,7 +5,7 @@
 
 This project is a real estate template built using SvelteKit and styled with TailwindCSS. It offers a fast and responsive interface for listing and viewing property details.
 
-[Live Preview](#https://svelte-real-state-landing.vercel.app/)
+[Live Preview](https://svelte-real-state-landing.vercel.app/)
 
 ## Requirements
 
