@@ -18,7 +18,7 @@ First, clone the repository and navigate into the project directory.
 
 ```bash
 git clone https://github.com/lyon93/svelte-real-state-landing.git
-cd real-estate-template
+cd svelte-real-state-landing
 ```
 
 Install the dependencies using npm:
@@ -32,7 +32,7 @@ Alternatively, you can use `pnpm` or `yarn`:
 ```bash
 pnpm install
 # or
-yarn
+yarn install
 ```
 
 ## Developing
@@ -65,7 +65,7 @@ npm run preview
 
 ## Deployment
 
-To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs#adapters) suitable for your hosting environment.
+To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) suitable for your hosting environment.
 
 ## Demo
 
