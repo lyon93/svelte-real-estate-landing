@@ -193,7 +193,7 @@
 				<textarea
 					id="comment"
 					rows="4"
-					class="w-full px-3 py-3 text-sm text-gray-900 bg-gray-50 border border-gray-300 focus:ring-0"
+					class="w-full px-3 py-3 text-sm text-gray-900 bg-gray-50 border rounded-lg border-gray-300 focus:ring-0"
 					placeholder="Description"
 					required
 				/>
