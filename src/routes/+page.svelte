@@ -6,7 +6,7 @@
 	/>
 </svelte:head>
 
-<section id="hero" class=" px-6 pt-12">
+<section id="hero" class=" px-6 pt-12 bg-gray-100">
 	<div class="grid max-w-screen-xl py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-0 lg:pt-16 lg:grid-cols-12">
 		<div class="mr-auto place-self-center lg:col-span-7">
 			<h1
@@ -143,7 +143,7 @@
 	</div>
 </section>
 
-<section id="contact" class="px-6 py-12">
+<section id="contact" class="px-6 py-12 bg-gray-100">
 	<div class="grid max-w-screen-xl grid-cols-1 px-4 py-8 mx-auto gap-3 lg:py-16 md:grid-cols-2">
 		<img
 			src="/images/house2.png"
