@@ -69,4 +69,4 @@ To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/
 
 
 ## Demo
-![Real Estate Template Demo](./static/images/demo.png)
+![Real Estate Template Demo](https://raw.githubusercontent.com/lyon93/svelte-real-estate-landing/main/static/images/demo.png)
